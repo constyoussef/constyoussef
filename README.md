@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef El Sayed!
 
-<!--
-**YoussefSayedDev/YoussefSayedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 I'm a passionate **frontend developer**.
+- 🎓 I specialize in **React.js**, **Next.js**, and **TypeScript**.
+- 🌱 I'm continuously learning and improving my skills in **full-stack development**.
+- 🛠️ I love solving problems and building reusable UI components.
+- 🌍 I'm open to collaborating on innovative projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+- 🌐 Portfolio: [youssef-el-sayed.vercel.app](https://youssef-el-sayed.vercel.app/)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/youseef-el-sayed-504b12251/](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
+- 🐦 Facebook: [[@YourTwitterHandle](https://www.facebook.com/profile.php?id=100024402221404)]([#](https://www.facebook.com/profile.php?id=100024402221404))
