@@ -1,12 +1,24 @@
-# 👋 Hi, I'm Youssef El Sayed!
+👋 Hi, I'm Youssef!
+💻 Frontend & Full-Stack Developer | Machine Learning Enthusiast
 
-- 🔥 I'm a passionate **frontend developer**.
-- 🎓 I specialize in **React.js**, **Next.js**, and **TypeScript**.
-- 🌱 I'm continuously learning and improving my skills in **full-stack development**.
-- 🛠️ I love solving problems and building reusable UI components.
-- 🌍 I'm open to collaborating on innovative projects.
+I'm a passionate computer science student with a strong focus on frontend development, full-stack applications, and machine learning. I love building scalable and efficient web applications using modern technologies.
 
-### 📫 Connect With Me
-- 🌐 Portfolio: [youssef-el-sayed.vercel.app](https://youssef-el-sayed.vercel.app/)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/youseef-el-sayed-504b12251/](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
-- 🐦 Facebook: [(https://www.facebook.com/profile.php?id=100024402221404](https://www.facebook.com/profile.php?id=100024402221404)
+🚀 Tech Stack & Skills
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+Backend: Node.js, PHP, Prisma, PostgreSQL, MySQL, MongoDB
+State Management: Zustand
+Testing: Jest, React Testing Library
+Internationalization: Next-intl
+Tools & Others: Git, GitHub, Biome.js, Obsidian
+📌 Current Focus
+Building an LMS platform for students, teachers, and parents
+Exploring Machine Learning and working on ML projects
+Learning unit testing and improving software quality
+🌍 Looking for Opportunities
+I'm looking for job opportunities abroad and fully funded scholarships to pursue a degree in Computer Science.
+
+🔗 Let's Connect
+🌐 Portfolio
+📫 Email: youssef.elsayed.dev@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/youseef-el-sayed-504b12251
+🐦 Twitter/X: https://x.com/Yossefelsayyedd
