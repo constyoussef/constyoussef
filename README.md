@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-el-sayed&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-el-sayed&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefSayedDev&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefSayedDev&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-sayed&layout=compact&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSayedDev&layout=compact&theme=tokyonight" width="60%" />
 </p>
 
 ---
