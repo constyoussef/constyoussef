@@ -1,25 +1,62 @@
-# 👋 Hi, I'm Youssef!
-## 💻 Frontend & Full-Stack Developer | Machine Learning Enthusiast
+<h1 align="center">Hi there 👋, I'm Youssef El Sayed</h1>
+<p align="center">
+  🎓 CS Student | 💻 Frontend Developer | 🌍 Based in Egypt
+</p>
 
-### I'm a passionate computer science student with a strong focus on frontend development, full-stack applications, and machine learning. I love building scalable and efficient web applications using modern technologies.
+---
 
-## 🚀 Tech Stack & Skills
-#### Frontend: React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui
-#### Backend: Node.js, PHP, Prisma, PostgreSQL, MySQL, MongoDB
-#### State Management: Zustand
-#### Testing: Jest, React Testing Library
-#### Internationalization: Next-intl
-#### Tools & Others: Git, GitHub, Biome.js, Obsidian
+### 🧠 About Me
 
-## 📌 Current Focus
-#### Building an LMS platform for students, teachers, and parents
-#### Exploring Machine Learning and working on ML projects
-#### Learning unit testing and improving software quality
-#### 🌍 Looking for Opportunities
-#### I'm looking for job opportunities abroad and fully funded scholarships to pursue a degree in Computer Science.
+- 💡 Passionate about building accessible, responsive, and modern web apps  
+- 🛠️ Love using **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**  
+- 🧪 Currently diving into **Machine Learning**, **Offline-first apps**, and **Performance Optimization**
 
-## 🔗 Let's Connect
-##### 🌐 Portfolio
-##### 📫 Email: youssef.elsayed.dev@gmail.com
-##### 💼 LinkedIn: https://www.linkedin.com/in/youseef-el-sayed-504b12251
-##### 🐦 Twitter/X: https://x.com/Yossefelsayyedd
+---
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
+
+---
+
+### 🚀 Currently Exploring
+
+- 🧠 Machine Learning with Python  
+- 🔌 IndexedDB, Dexie.js & Service Workers for offline-first apps  
+- 🧰 Performance tuning with Web Workers & caching strategies
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-el-sayed&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-el-sayed&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-sayed&layout=compact&theme=tokyonight" width="60%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://youssef-el-sayed.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
+- 🧠 Always learning, always building...
+
+---
+
+<p align="center">✨ Thanks for visiting! ✨</p>
