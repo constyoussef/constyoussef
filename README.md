@@ -83,6 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSayedDev&layout=compact&theme=tokyonight&hide_border=false" width="60%" />
 </p>
 
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YoussefSayedDev.YoussefSayedDev&left_color=darkslategray&right_color=dodgerblue"  />
+
+
 ---
 
 ### 📬 Let's Connect!
