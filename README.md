@@ -80,6 +80,16 @@
   - Live demo: https://tajalsalam.vercel.app  
   - Focus: secure user flows, lawyer profiles, payments, and a client-lawyer messaging/booking system.
 
+- 🏢 **Pioneers** — Real Estate Rental Platform  
+  - Live demo: https://pioneers-gamma.vercel.app  
+  - Features: 3 user roles (**Owner**, **Tenant**, **Supervisor**).  
+    - Owner uploads property listings and can assign supervisors.  
+    - Tenant can rent and manage bookings.  
+    - Supervisors assist owners in property management.  
+
+- 🐎 **Saheel** — Horse Auctions & Marketplace  
+  - Live demo: https://saheel.vercel.app  
+  - Features: Horse auctions, horse sales, accessories marketplace, and stable rentals.  
 
 Other projects / prototypes:
 - 🏫 LMS ideas (teachers/students/parents + video lessons + grading + analytics)  
