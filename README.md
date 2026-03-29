@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Youssef El Sayed</h1>
 <p align="center">
-  🎓 CS Student • 💻 Frontend Developer • 🌍 Based in Egypt  
+  🎓 CS Student • 💻 Frontend Engineer & Instructor • 🌍 Based in Egypt  
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@
 
 ### 🧠 About Me
 
-- 🌟 I craft interactive, accessible, and modern UIs.  
-- 💻 Main stack: **React**, **Next.js**, **Tailwind CSS**, **TypeScript**.  
-- 🔁 I focus on offline-first apps, performance, and building reusable UI components.  
+- 🌟 I craft interactive, accessible, and modern UIs with a strong preference for **feature-based architecture**.  
+- 💻 Main stack: **React**, **React Native**, **Next.js**, **Tailwind CSS**, **TypeScript**.  
+- 🔁 I focus on offline-first apps, performance, system design, and building scalable reusable components.  
+- 🎥 I am a content creator and programming instructor, sharing technical deep-dives on YouTube and social media.
 - ⚡ Always learning — I organise notes (Obsidian / Notion) and turn learnings into projects.
 
 ---
 
-### 🛠 Tech Stack (concise)
+### 🛠 Tech Stack 
 
 #### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,71 +32,63 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-#### Frontend  
+#### Frontend & Mobile 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-DD6B20?style=flat&logo=react&logoColor=white)
 
-#### Backend & Infra (made prominent)
+#### Backend & Infra 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-0ea5e9?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### State, Offline & Tools
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat)
 ![Dexie.js](https://img.shields.io/badge/-Dexie.js-3B82F6?style=flat)
-![Service Workers](https://img.shields.io/badge/-Service_Workers-2dd4bf?style=flat)
-![Web Workers](https://img.shields.io/badge/-Web_Workers-f472b6?style=flat)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-ffb020?style=flat)
-![Next-intl](https://img.shields.io/badge/-Next--intl-7c3aed?style=flat)
-![Biome.js](https://img.shields.io/badge/-Biome.js-111827?style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🔍 Currently Exploring & Using in Projects
 
-- 📈 Machine Learning experiments with **Python + scikit-learn**  
-- ⚙️ Performance: **Web Workers**, **caching strategies**, **lazy loading**, and bundle splitting  
-- 🔄 Offline-first: **IndexedDB** via **Dexie.js**, background sync, and Service Workers  
-- 🧩 Reusable component libraries (ShadCN + Tailwind) and publishing packages (npm)  
-- 🧪 Unit & integration testing: **Jest** + **React Testing Library**  
-- 🌐 i18n using **next-intl**  
-- ⚙️ Backend architecture and scaling using **NestJS** (microservices-ready patterns)
+- 🏗️ **System Design & Architecture:** Building hybrid real-time models using Server-Sent Events (SSE) and WebSockets for scalable chat applications.
+- 📱 **Mobile Development:** Cross-platform development with React Native and Expo.
+- 🎓 **Course Creation:** Structuring and recording a massive 200+ video comprehensive React course.
+- ⚙️ **Performance & Offline-first:** IndexedDB via Dexie.js, caching strategies, and Service Workers. 
+- 🌐 Backend environments with **Docker** networking, cron jobs, and monorepo structures.
 
 ---
 
 ### 🏗 Current Projects (actively working on)
 
+- ✈️ **Rovin** — Travel & Social Application  
+  - Stack: React Native, Expo.  
+  - Focus: Features an integrated AI chat and a robust group chat functionality powered by a hybrid SSE/WebSocket architecture.
+
 - 🍽 **CaterFlow** — Restaurant Management System (RMS)  
   - Live demo / admin: https://caterflow-web.vercel.app/ar/admin/home  
-  - Stack highlights: React frontend, NestJS backend, PostgreSQL/Prisma.  
-
-- ⚖️ **Taj Al-Salam** — Legal Consultation Platform (marketplace for lawyers; like Mostaql but specialized)  
-  - Live demo: https://tajalsalam.vercel.app  
-  - Focus: secure user flows, lawyer profiles, payments, and a client-lawyer messaging/booking system.
-
-- 🏢 **Pioneers** — Real Estate Rental Platform  
-  - Live demo: https://pioneers-gamma.vercel.app  
-  - Features: 3 user roles (**Owner**, **Tenant**, **Supervisor**).  
-    - Owner uploads property listings and can assign supervisors.  
-    - Tenant can rent and manage bookings.  
-    - Supervisors assist owners in property management.  
+  - Stack highlights: Monorepo architecture, React frontend, NestJS backend, PostgreSQL/Prisma.  
 
 - 🐎 **Saheel** — Horse Auctions & Marketplace  
   - Live demo: https://saheel.vercel.app  
-  - Features: Horse auctions, horse sales, accessories marketplace, and stable rentals.  
+  - Stack highlights: Next.js frontend, Laravel backend, fully containerized in a Docker environment with complex database connections and cron jobs.
 
-Other projects / prototypes:
-- 🏫 LMS ideas (teachers/students/parents + video lessons + grading + analytics)  
-- 🔧 Reusable **custom scrollbar** React + TypeScript component (npm-ready)  
-- 🔐 SaaS idea for secure account/subscription management (design + auth considerations)  
-- 🚌 Smart public transport concept (Faqous → Zagazig University) — survey + routing prototypes
+- ⚖️ **Taj Al-Salam** — Legal Consultation Platform  
+  - Live demo: https://tajalsalam.vercel.app  
+  - Focus: Secure user flows, lawyer profiles, payments, and a client-lawyer messaging/booking system.
+
+- 🏢 **Pioneers** — Real Estate Rental Platform  
+  - Live demo: https://pioneers-gamma.vercel.app  
+  - Features: 3 user roles (Owner, Tenant, Supervisor) for seamless property management and booking.
 
 ---
 
@@ -103,15 +96,15 @@ Other projects / prototypes:
 
 - I keep structured notes (Obsidian) for every learning path and convert them into small projects to solidify knowledge.  
 - I prefer **desktop tools** for designing ER diagrams and architecture sketches.  
-- Workflow: many tabs (30+) in Brave, VS Code, and local dev containers; deploy demos on Vercel / Railway for client previews.
+- Workflow: many tabs (30+) in Brave, tweaking VS Code themes, and managing local dev containers. 
 
 ---
 
 ### 💡 Fun Facts
 
-- 💬 I teach what I learn — making tutorials & notes helps me remember things better.  
+- 💬 I teach what I learn — whether it's planning a 3-hour JavaScript deep-dive for students or designing YouTube thumbnails for my dev channel.  
 - 🔋 I actually keep 30+ tabs open while working 😄  
-- 🎯 2025 goal: ship at least **2 SaaS products** and contribute to OSS
+- 🎯 2025 goal: ship at least **2 SaaS products** and contribute to OSS.
 
 ---
 
@@ -130,11 +123,11 @@ Other projects / prototypes:
 --- 
 
 ### 📬 Let's Connect! 
-- 🌐 [Portfolio](https://youssef-el-sayed.vercel.app/)
+- 🌐 [Portfolio](https://www.youssef.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
+- 🎥 Check out my tech content on YouTube!
 - 🧠 I’m always open to new ideas, collaborations, and feedback!
 
 ---
-
 
 <p align="center">✨ Thanks for visiting — feel free to star, fork, or reach out! ✨</p>
