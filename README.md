@@ -68,30 +68,6 @@
 
 ---
 
-### 🏗 Current Projects (actively working on)
-
-- ✈️ **Rovin** — Travel & Social Application  
-  - Stack: React Native, Expo.  
-  - Focus: Features an integrated AI chat and a robust group chat functionality powered by a hybrid SSE/WebSocket architecture.
-
-- 🍽 **CaterFlow** — Restaurant Management System (RMS)  
-  - Live demo / admin: https://caterflow-web.vercel.app/ar/admin/home  
-  - Stack highlights: Monorepo architecture, React frontend, NestJS backend, PostgreSQL/Prisma.  
-
-- 🐎 **Saheel** — Horse Auctions & Marketplace  
-  - Live demo: https://saheel.vercel.app  
-  - Stack highlights: Next.js frontend, Laravel backend, fully containerized in a Docker environment with complex database connections and cron jobs.
-
-- ⚖️ **Taj Al-Salam** — Legal Consultation Platform  
-  - Live demo: https://tajalsalam.vercel.app  
-  - Focus: Secure user flows, lawyer profiles, payments, and a client-lawyer messaging/booking system.
-
-- 🏢 **Pioneers** — Real Estate Rental Platform  
-  - Live demo: https://pioneers-gamma.vercel.app  
-  - Features: 3 user roles (Owner, Tenant, Supervisor) for seamless property management and booking.
-
----
-
 ### 📚 Learning & Process Notes
 
 - I keep structured notes (Obsidian) for every learning path and convert them into small projects to solidify knowledge.  
