@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Youssef El Sayed</h1>
+<h1 align="center">Youssef El Sayed</h1>
 <p align="center">
-  🎓 CS Student • 💻 Frontend Engineer & Instructor • 🌍 Based in Egypt  
+  Full-Stack Software Engineer & Instructor · Based in Egypt
 </p>
 
 <p align="center">
@@ -14,96 +14,96 @@
 
 ---
 
-### 🧠 About Me
+### About
 
-- 🌟 I craft interactive, accessible, and modern UIs with a strong preference for **feature-based architecture**.  
-- 💻 Main stack: **React**, **React Native**, **Next.js**, **Tailwind CSS**, **TypeScript**.  
-- 🔁 I focus on offline-first apps, performance, system design, and building scalable reusable components.  
-- 🎥 I am a content creator and programming instructor, sharing technical deep-dives on YouTube and social media.
-- ⚡ Always learning — I organise notes (Obsidian / Notion) and turn learnings into projects.
+Full-stack engineer building products end to end — web, mobile, APIs, and the infrastructure they run on. I work monorepo-first, pairing NestJS APIs with Next.js frontends and Expo mobile apps in shared pnpm/Turborepo workspaces, and I own the path from architecture to production: Dockerized deployments, Nginx reverse proxies, GitHub Actions CI/CD, and database migrations on live systems.
+
+I ship to real users — an iOS app live on the App Store, multi-service production stacks on VPS, and client platforms serving thousands of requests a day. Alongside client work, I build and operate my own products, and I teach web development through a structured 12-week workshop.
 
 ---
 
-### 🛠 Tech Stack 
+### Tech Stack
 
-#### Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-#### Frontend & Mobile 
+**Web**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/-ShadCN-DD6B20?style=flat&logo=react&logoColor=white)
 
-#### Backend & Infra 
+**Mobile**
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white)
+
+**Backend & Data**
+
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-0ea5e9?style=flat&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-#### State, Offline & Tools
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat)
-![Dexie.js](https://img.shields.io/badge/-Dexie.js-3B82F6?style=flat)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-ffb020?style=flat)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+**Infra & Tooling**
 
----
-
-### 🔍 Currently Exploring & Using in Projects
-
-- 🏗️ **System Design & Architecture:** Building hybrid real-time models using Server-Sent Events (SSE) and WebSockets for scalable chat applications.
-- 📱 **Mobile Development:** Cross-platform development with React Native and Expo.
-- 🎓 **Course Creation:** Structuring and recording a massive 200+ video comprehensive React course.
-- ⚙️ **Performance & Offline-first:** IndexedDB via Dexie.js, caching strategies, and Service Workers. 
-- 🌐 Backend environments with **Docker** networking, cron jobs, and monorepo structures.
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-### 📚 Learning & Process Notes
+### Selected Work
 
-- I keep structured notes (Obsidian) for every learning path and convert them into small projects to solidify knowledge.  
-- I prefer **desktop tools** for designing ER diagrams and architecture sketches.  
-- Workflow: many tabs (30+) in Brave, tweaking VS Code themes, and managing local dev containers. 
-
----
-
-### 💡 Fun Facts
-
-- 💬 I teach what I learn — whether it's planning a 3-hour JavaScript deep-dive for students or designing YouTube thumbnails for my dev channel.  
-- 🔋 I actually keep 30+ tabs open while working 😄  
-- 🎯 2025 goal: ship at least **2 SaaS products** and contribute to OSS.
+- **Buyootna** — Saudi real-estate ecosystem: NestJS API with 25 feature modules, six Next.js portals (landing, companies, offices, management, admin, docs), and a live Expo/React Native iOS app with an OTA release pipeline, EAS builds, and full CI/CD.
+- **CaterFlow** — Multi-tenant restaurant & catering management SaaS: NestJS + React monorepo, BullMQ report pipelines, Stripe billing, Socket.IO real-time, and IoT temperature telemetry. Delivered as lead platform architect (~840 commits).
+- **Siyasati (BandAI)** — AI legal-policy platform: NestJS API, FastAPI/Celery LLM analysis engine, and a published Chrome extension; Dockerized staging + production with GHCR images.
+- **[loula.store](https://loula.store)** — Women's fashion e-commerce I own and operate: Next.js App Router, Drizzle on Neon Postgres (45 tables), 3D virtual try-on with Three.js, AI-powered BI summaries, and Meta CAPI server events.
+- **[gehazy.site](https://gehazy.site)** — Arabic bridal-planning platform: Next.js server actions, budget and settlement engines, shared lists, anonymous community, and server-side PDF generation. Fully tested with Vitest.
+- **Rovin AI** — AI chat & trip-planning mobile app: Expo/React Native with AI SDK chat, group messaging, and Supabase — built the entire messaging product as a freelance contractor.
+- **Saheel** — Horse-market marketplace at saheel.horse: originally Laravel 12 + Next.js, later re-architected as a full TypeScript rewrite (NestJS + Prisma) with HyperPay/MADA/STC Pay payments and OTO shipping integration.
 
 ---
 
-### 📊 GitHub Stats 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constyoussef&theme=tokyonight&hide_border=false" width="49%" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=constyoussef&show_icons=true&theme=tokyonight&hide_border=false" width="49%" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constyoussef&layout=compact&theme=tokyonight&hide_border=false" width="60%" /> 
-</p> 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=constyoussef.constyoussef&left_color=darkslategray&right_color=dodgerblue" /> 
+### Currently
 
---- 
-
-### 📬 Let's Connect! 
-- 🌐 [Portfolio](https://www.youssef.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
-- 🎥 Check out my tech content on YouTube!
-- 🧠 I’m always open to new ideas, collaborations, and feedback!
+- **Dirayah** — Arabic-first school LMS: Turborepo monorepo with Next.js web, NestJS API, and Expo mobile apps.
+- **Hawaleak** — Place-discovery and live crowd-reporting platform for Egypt: five apps across mobile, web dashboards, and API.
+- Expanding backend depth with **Go** — concurrency-focused systems work.
+- Producing a comprehensive **React course** for my students and YouTube channel.
 
 ---
 
-<p align="center">✨ Thanks for visiting — feel free to star, fork, or reach out! ✨</p>
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constyoussef&theme=tokyonight&hide_border=false" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=constyoussef&show_icons=true&theme=tokyonight&hide_border=false" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constyoussef&layout=compact&theme=tokyonight&hide_border=false" width="60%" />
+</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=constyoussef.constyoussef&left_color=darkslategray&right_color=dodgerblue" />
+
+---
+
+### Connect
+
+- Portfolio: [youssef.app](https://www.youssef.app)
+- LinkedIn: [youseef-el-sayed](https://www.linkedin.com/in/youseef-el-sayed-504b12251/)
+- Technical content and courses on YouTube
+
+<p align="center">Open to collaborations and interesting problems — feel free to reach out.</p>
