@@ -66,13 +66,13 @@ I ship to real users — an iOS app live on the App Store, multi-service product
 
 ### Selected Work
 
-- **Buyootna** — Saudi real-estate ecosystem: NestJS API with 25 feature modules, six Next.js portals (landing, companies, offices, management, admin, docs), and a live Expo/React Native iOS app with an OTA release pipeline, EAS builds, and full CI/CD.
-- **CaterFlow** — Multi-tenant restaurant & catering management SaaS: NestJS + React monorepo, BullMQ report pipelines, Stripe billing, Socket.IO real-time, and IoT temperature telemetry. Delivered as lead platform architect (~840 commits).
-- **Siyasati (BandAI)** — AI legal-policy platform: NestJS API, FastAPI/Celery LLM analysis engine, and a published Chrome extension; Dockerized staging + production with GHCR images.
+- **[Buyootna](https://buyootna.com)** — Kuwait real-estate ecosystem: NestJS API with 25 feature modules, six Next.js portals (landing, companies, offices, management, admin, docs), and a live Expo/React Native iOS app with an OTA release pipeline, EAS builds, and full CI/CD.
+- **[CaterFlow](https://caterflow.net)** — Multi-tenant restaurant & catering management SaaS: NestJS + React monorepo, BullMQ report pipelines, Stripe billing, Socket.IO real-time, and IoT temperature telemetry. Delivered as lead platform architect (~840 commits).
+- **[Siyasati](https://siyasati.com) (BandAI)** — AI legal-policy platform: NestJS API, FastAPI/Celery LLM analysis engine, and a published Chrome extension; Dockerized staging + production with GHCR images.
 - **[loula.store](https://loula.store)** — Women's fashion e-commerce I own and operate: Next.js App Router, Drizzle on Neon Postgres (45 tables), 3D virtual try-on with Three.js, AI-powered BI summaries, and Meta CAPI server events.
 - **[gehazy.site](https://gehazy.site)** — Arabic bridal-planning platform: Next.js server actions, budget and settlement engines, shared lists, anonymous community, and server-side PDF generation. Fully tested with Vitest.
 - **Rovin AI** — AI chat & trip-planning mobile app: Expo/React Native with AI SDK chat, group messaging, and Supabase — built the entire messaging product as a freelance contractor.
-- **Saheel** — Horse-market marketplace at saheel.horse: originally Laravel 12 + Next.js, later re-architected as a full TypeScript rewrite (NestJS + Prisma) with HyperPay/MADA/STC Pay payments and OTO shipping integration.
+- **[Saheel](https://saheel.horse)** — Horse-market marketplace: originally Laravel 12 + Next.js, later re-architected as a full TypeScript rewrite (NestJS + Prisma) with HyperPay/MADA/STC Pay payments and OTO shipping integration.
 
 ---
 
